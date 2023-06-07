@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/build-myportfolio/static/css/main.0c172124.css",
-    "main.js": "/build-myportfolio/static/js/main.f4f17ca6.js",
-    "static/media/pocket.png": "/build-myportfolio/static/media/pocket.aa3b2e4350a52a1c711a.png",
-    "static/media/daniel-olahh.jpg": "/build-myportfolio/static/media/daniel-olahh.77c0ffac60f9218de675.jpg",
-    "static/media/booking.png": "/build-myportfolio/static/media/booking.3eca827accd651ca90e5.png",
-    "static/media/python.png": "/build-myportfolio/static/media/python.6a5cbc319ab3ddf8ef92.png",
-    "static/media/php.png": "/build-myportfolio/static/media/php.4990580e9b615aeebb1f.png",
-    "static/media/nucleo-icons.eot": "/build-myportfolio/static/media/nucleo-icons.bd42d77b9672555647d1.eot",
-    "static/media/nucleo-icons.ttf": "/build-myportfolio/static/media/nucleo-icons.4466aeec3386b965a232.ttf",
-    "static/media/linux.png": "/build-myportfolio/static/media/linux.8f43b47d4911fa04d8f3.png",
-    "static/media/nucleo-icons.woff": "/build-myportfolio/static/media/nucleo-icons.8e954b749f951b654fc6.woff",
-    "static/media/nucleo-icons.woff2": "/build-myportfolio/static/media/nucleo-icons.ec16bc4cc4526801004d.woff2",
-    "static/media/js.png": "/build-myportfolio/static/media/js.3dfb665e058d08c99f28.png",
-    "index.html": "/build-myportfolio/index.html"
+    "main.css": "/build-portfolio/static/css/main.f03f5955.css",
+    "main.js": "/build-portfolio/static/js/main.25fad899.js",
+    "static/media/pocket.png": "/build-portfolio/static/media/pocket.aa3b2e4350a52a1c711a.png",
+    "static/media/daniel-olahh.jpg": "/build-portfolio/static/media/daniel-olahh.77c0ffac60f9218de675.jpg",
+    "static/media/booking.png": "/build-portfolio/static/media/booking.3eca827accd651ca90e5.png",
+    "static/media/python.png": "/build-portfolio/static/media/python.6a5cbc319ab3ddf8ef92.png",
+    "static/media/php.png": "/build-portfolio/static/media/php.4990580e9b615aeebb1f.png",
+    "static/media/nucleo-icons.eot": "/build-portfolio/static/media/nucleo-icons.bd42d77b9672555647d1.eot",
+    "static/media/nucleo-icons.ttf": "/build-portfolio/static/media/nucleo-icons.4466aeec3386b965a232.ttf",
+    "static/media/linux.png": "/build-portfolio/static/media/linux.8f43b47d4911fa04d8f3.png",
+    "static/media/nucleo-icons.woff": "/build-portfolio/static/media/nucleo-icons.8e954b749f951b654fc6.woff",
+    "static/media/nucleo-icons.woff2": "/build-portfolio/static/media/nucleo-icons.ec16bc4cc4526801004d.woff2",
+    "static/media/js.png": "/build-portfolio/static/media/js.3dfb665e058d08c99f28.png",
+    "index.html": "/build-portfolio/index.html"
   },
   "entrypoints": [
-    "static/css/main.0c172124.css",
-    "static/js/main.f4f17ca6.js"
+    "static/css/main.f03f5955.css",
+    "static/js/main.25fad899.js"
   ]
 }
